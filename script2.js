@@ -1,5 +1,5 @@
 // Адрес вашего развернутого контракта
-const contractAddress = '0x8a0AF08917Ff659856d24ba9f60D44BD991c5376';
+const contractAddress = '0x8CDcb54A5D3e846619E687EaaDEC37097FBbC45f';
 // ABI вашего контракта (можно взять тот набор, который формирует Remix)
 const contractAbi = [
     {
